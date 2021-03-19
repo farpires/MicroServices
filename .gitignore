@@ -1,2 +1,9 @@
 monolithic/node_modules
 monolithic/package-lock.json
+microservices/book-service/node_modules
+microservices/book-service/package-lock.json
+microservices/car-service/node_modules
+microservices/car-service/package-lock.json
+microservices/user-service/node_modules
+microservices/user-service/package-lock.json
+
